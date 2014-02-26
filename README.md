@@ -1,4 +1,7 @@
 # Decouple and Recouple
+[![DOI](http://akapadia.s3.amazonaws.com/zenodo/badge/10.5281-zenodo.8345.png)](http://zenodo.org)
+
+__NOTE__: ZENODO/GitHub demo. DOI shown is not real and used only for ZENODO/GitHub integration demo.
 
 This repository contains the software implementation for our paper __A Novel Approach to Higgs Coupling Measurements__ (Cranmer, Kreiss, Lopez-Val, Plehn), [arXiv:1401.0080 \[hep-ph\]](http://arxiv.org/abs/1401.0080). It contains tools to apply the discussed methods to new models and contains a Makefile to recreate the plots in the paper.
 
