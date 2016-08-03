@@ -1,3 +1,4 @@
+{
   "title": "Decouple and Recouple",
   "creators": [{
       "name": "Cranmer, Kyle",
@@ -13,7 +14,7 @@
       "affiliation": "Institut für Theoretische Physik, Universität Heidelberg, Germany"
   }],
   "description": "This repository contains the software implementation for our paper A Novel Approach to Higgs Coupling Measurements (Cranmer, Kreiss, Lopez-Val, Plehn), arXiv:1401.0080 [hep-ph]. It contains tools to apply the discussed methods to new models and contains a Makefile to recreate the plots in the paper. A demo for the recoupling stage where the effective likelihood and template parametrization are readily provided is at decoupledDemo.",
-  "access_right": "open",
+  "access_right": "invalid",
   "license": "mit-license",
   "related_identifiers": [{
     "identifier": "arXiv:1401.0080",
